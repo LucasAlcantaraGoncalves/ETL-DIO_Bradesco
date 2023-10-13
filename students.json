@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "registry": "1111-1",
+      "name": "Pedro",
+      "surname": "Cardoso",
+      "age": 23,
+      "courses": [
+        "Python",
+        "Ciências de Dados"
+      ]
+    },
+    {
+      "id": 2,
+      "registry": "1111-1",
+      "name": "Rafael",
+      "surname": "Martins",
+      "age": 19,
+      "courses": [
+        "JS",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 3,
+      "registry": "1111-7",
+      "name": "Milena",
+      "sobrename": "Garçia",
+      "age": 25,
+      "courses": [
+        "Java",
+        "Spring"
+      ]
+    }
+  ]
+}
